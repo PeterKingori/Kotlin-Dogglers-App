@@ -1,0 +1,141 @@
+05-02 18:33:27.683 14166 14194 I TestRunner: started: vertical_list_button_is_displayed(com.example.dogglers.ButtonTests)
+05-02 18:33:27.691 14166 14194 W Settings: Setting always_finish_activities has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+05-02 18:33:27.698  1212  6405 E ANDR-PERF-JNI: com_qualcomm_qtiperformance_native_perf_io_prefetch_start
+05-02 18:33:27.702  1212  6405 D ActivityTrigger: ActivityTrigger activityPauseTrigger
+05-02 18:33:27.703   794   802 E statsd  : Predicate 5980654721335871649 dropping data for dimension key (10)0x2010101->10876[I] (10)0x30000->*launch*[S]
+05-02 18:33:27.707   968   982 E ANDR-IOP: io prefetch is disabled
+05-02 18:33:27.719  1212  1642 E system_server: Invalid ID 0x00000000.
+05-02 18:33:27.720  1212  1641 D OpPowerConsumpStatsInjector: notifyPkgEvent
+05-02 18:33:27.723  1212  1664 D MyBatteryStatsHelper: ===processSingleAppUsage===
+05-02 18:33:27.723  1212  1641 D OpPowerConsumpStatsInjector: notifyPkgEvent
+05-02 18:33:27.727 14166 14166 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@a199445 in: PRE_ON_CREATE
+05-02 18:33:27.728 14166 14166 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@a199445
+05-02 18:33:27.731  1212  1642 D OPFD_CTRL_SVC: [2]handle Starting Window for { com.example.dogglers }, Dark? false
+05-02 18:33:27.736 14166 14166 E xample.doggler: Invalid ID 0x00000000.
+05-02 18:33:27.738 14166 14166 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@a199445 in: CREATED
+05-02 18:33:27.739 14166 14166 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@a199445
+05-02 18:33:27.741 14166 14166 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@a199445 in: STARTED
+05-02 18:33:27.742 14166 14166 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@a199445
+05-02 18:33:27.750  1212  6405 D ActivityTrigger: ActivityTrigger activityPauseTrigger
+05-02 18:33:27.753 14166 14166 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@a199445 in: RESUMED
+05-02 18:33:27.753 14166 14166 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@a199445
+05-02 18:33:27.756 28709 28709 D ViewRootImpl[Launcher]: windowFocusChanged hasFocus=false inTouchMode=true
+05-02 18:33:27.758 14166 14166 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@a199445 in: PAUSED
+05-02 18:33:27.758 14166 14166 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@a199445
+05-02 18:33:27.759  1212  1641 D OpPowerConsumpStatsInjector: notifyPkgEvent
+05-02 18:33:27.768  1212  1641 D OpPowerConsumpStatsInjector: notifyPkgEvent
+05-02 18:33:27.773 14166 14166 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.MainActivity@afc6a7 in: PRE_ON_CREATE
+05-02 18:33:27.773 14166 14166 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was PRE_ON_CREATE
+05-02 18:33:27.782  1212  2250 D skia    : got procName system_server for pid 1212
+05-02 18:33:27.801  1212  2250 D skia    : got procName system_server for pid 1212
+05-02 18:33:27.829 14166 14166 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.MainActivity@afc6a7 in: CREATED
+05-02 18:33:27.830 14166 14166 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=com.example.dogglers.MainActivity@afc6a7
+05-02 18:33:27.832 14166 14166 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.MainActivity@afc6a7 in: STARTED
+05-02 18:33:27.833 14166 14166 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=com.example.dogglers.MainActivity@afc6a7
+05-02 18:33:27.835 14166 14166 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.MainActivity@afc6a7 in: RESUMED
+05-02 18:33:27.835 14166 14166 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=com.example.dogglers.MainActivity@afc6a7
+05-02 18:33:27.842 14166 14166 V ViewRootImpl: The specified message queue synchronization  barrier token has not been posted or has already been removed
+05-02 18:33:27.864  6444  6444 D EdgeBackGestureHandler: updateTopPackage isHomeApp false
+05-02 18:33:27.884  1038  1354 E surfaceflinger: [frame_perf] AutoTurboBoostQuery fd<0 failed, errno=Inappropriate ioctl for device
+05-02 18:33:27.884  1038  1354 E surfaceflinger: [frame_perf] AutoBoostConfigQuery fd<0 failed, errno=No such file or directory
+05-02 18:33:27.890  1212  1664 D ArtManagerInternalImpl: /data/misc/iorapd/com.example.dogglers/1/com.example.dogglers.MainActivity/compiled_traces/compiled_trace.pb doesn't exist
+05-02 18:33:27.892  1212  1715 I ===> HoustonPackage: addLaunchTimeInfo: for com.example.dogglers/.MainActivity isCold:false launchTime:193
+05-02 18:33:27.892  1212  1664 I ActivityTaskManager: Displayed com.example.dogglers/.MainActivity: +193ms
+05-02 18:33:27.901 14166 14166 D DecorView: onWindowFocusChangedFromViewRoot hasFocus: true, DecorView@98ae8ae[MainActivity]
+05-02 18:33:27.902 14166 14166 D ViewRootImpl[MainActivity]: windowFocusChanged hasFocus=true inTouchMode=true
+05-02 18:33:27.905  6444  6444 D PhoneStatusBarView: getCompatMode: mode:0 ops:3
+05-02 18:33:27.905  6444  6444 I PhoneStatusBarView: isFullAndNotchEnabled() isFullMode=false pkg=com.example.dogglers isCameraNotchIgnoreSetting=false, uid=10876
+05-02 18:33:27.909 32133 32133 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3182
+05-02 18:33:27.909 32133 32133 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2077 checkRepeatedly = false, unlocked = true
+05-02 18:33:27.910 32133 32133 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1885 onStartInput(EditorInfo{inputType=0x0(NULL) imeOptions=0x0 privateImeOptions=null actionName=UNSPECIFIED actionLabel=null actionId=0 initialSelStart=-1 initialSelEnd=-1 initialCapsMode=0x0 hintText=null label=null packageName=com.example.dogglers fieldId=-1 fieldName=null extras=null}, false)
+05-02 18:33:27.910 32133 32133 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2077 checkRepeatedly = true, unlocked = true
+05-02 18:33:27.914  6444  6444 D KeyButtonRipple:  draw SupportHardware=true Type=ROUNDED_RECT
+05-02 18:33:27.914  6444  6444 I chatty  : uid=10014(com.android.systemui) identical 1 line
+05-02 18:33:27.914  6444  6444 D KeyButtonRipple:  draw SupportHardware=true Type=ROUNDED_RECT
+05-02 18:33:27.918 14166 14166 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=(view has effective visibility <VISIBLE> and view.getGlobalVisibleRect() to return non-empty rectangle)}' assertion on view view.getId() is <2131231192/com.example.dogglers:id/vertical_btn>
+05-02 18:33:27.922   794   802 E statsd  : Predicate 5980654721335871649 dropping data for dimension key (10)0x2010101->10876[I] (10)0x30000->*launch*[S]
+05-02 18:33:27.930  1212  3035 D ActivityTrigger: ActivityTrigger activityPauseTrigger
+05-02 18:33:27.931  6444  6444 D KeyButtonRipple:  draw SupportHardware=true Type=ROUNDED_RECT
+05-02 18:33:27.931  6444  6444 I chatty  : uid=10014(com.android.systemui) identical 1 line
+05-02 18:33:27.931  6444  6444 D KeyButtonRipple:  draw SupportHardware=true Type=ROUNDED_RECT
+05-02 18:33:27.931   794   802 E statsd  : Predicate 5980654721335871649 dropping data for dimension key (10)0x2010101->10876[I] (10)0x30000->*launch*[S]
+05-02 18:33:27.935  1038 23341 E surfaceflinger: [frame_perf] perfboost open boost file failed
+05-02 18:33:27.936 14166 14166 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.MainActivity@afc6a7 in: PAUSED
+05-02 18:33:27.937 14166 14166 V ActivityScenario: Update currentActivityStage to PAUSED, currentActivity=com.example.dogglers.MainActivity@afc6a7
+05-02 18:33:27.938  1212  1641 D OpPowerConsumpStatsInjector: notifyPkgEvent
+05-02 18:33:27.944  1212  1641 D OpPowerConsumpStatsInjector: notifyPkgEvent
+05-02 18:33:27.949 14166 14166 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@ed68fc8 in: PRE_ON_CREATE
+05-02 18:33:27.950 14166 14166 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@ed68fc8
+05-02 18:33:27.952  1038 23341 E surfaceflinger: [frame_perf] perfboost open boost file failed
+05-02 18:33:27.959 14166 14166 E xample.doggler: Invalid ID 0x00000000.
+05-02 18:33:27.961 14166 14166 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@ed68fc8 in: CREATED
+05-02 18:33:27.961 14166 14166 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@ed68fc8
+05-02 18:33:27.964 14166 14166 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@ed68fc8 in: STARTED
+05-02 18:33:27.964 14166 14166 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@ed68fc8
+05-02 18:33:27.966 14166 14166 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@ed68fc8 in: RESUMED
+05-02 18:33:27.967 14166 14166 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@ed68fc8
+05-02 18:33:27.972 14166 14166 V ViewRootImpl: The specified message queue synchronization  barrier token has not been posted or has already been removed
+05-02 18:33:27.976 14166 14166 D ViewRootImpl[MainActivity]: windowFocusChanged hasFocus=false inTouchMode=true
+05-02 18:33:27.993  1038  1086 E surfaceflinger: [frame_perf] AutoTurboBoostQuery fd<0 failed, errno=Inappropriate ioctl for device
+05-02 18:33:27.993  1038  1086 E surfaceflinger: [frame_perf] AutoBoostConfigQuery fd<0 failed, errno=No such file or directory
+05-02 18:33:27.994 14166 14166 W Choreographer: Already have a pending vsync event.  There should only be one at a time.
+05-02 18:33:27.998  1212  1715 I ===> HoustonPackage: addLaunchTimeInfo: for com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity isCold:false launchTime:70
+05-02 18:33:27.998  1212  1664 I ActivityTaskManager: Displayed com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity: +70ms
+05-02 18:33:28.005  1038  1086 E surfaceflinger: [frame_perf] perfboost open boost file failed
+05-02 18:33:28.015  1212  2518 D ActivityTrigger: ActivityTrigger activityPauseTrigger
+05-02 18:33:28.022 14166 14166 D DecorView: onWindowFocusChangedFromViewRoot hasFocus: true, DecorView@403199d[InstrumentationActivityInvoker$EmptyActivity]
+05-02 18:33:28.022  1038 23341 E surfaceflinger: [frame_perf] perfboost open boost file failed
+05-02 18:33:28.023 14166 14166 D ViewRootImpl[InstrumentationActivityInvoker$EmptyActivity]: windowFocusChanged hasFocus=true inTouchMode=true
+05-02 18:33:28.025 14166 14166 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.MainActivity@afc6a7 in: STOPPED
+05-02 18:33:28.025 14166 14166 V ActivityScenario: Update currentActivityStage to STOPPED, currentActivity=com.example.dogglers.MainActivity@afc6a7
+05-02 18:33:28.028 14166 14166 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.MainActivity@afc6a7 in: DESTROYED
+05-02 18:33:28.028 14166 14166 V ActivityScenario: Update currentActivityStage to DESTROYED, currentActivity=null
+05-02 18:33:28.031  6444  6444 D KeyButtonRipple:  draw SupportHardware=true Type=ROUNDED_RECT
+05-02 18:33:28.031  6444  6444 I chatty  : uid=10014(com.android.systemui) identical 1 line
+05-02 18:33:28.032  6444  6444 D KeyButtonRipple:  draw SupportHardware=true Type=ROUNDED_RECT
+05-02 18:33:28.037 14166 14166 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@ed68fc8 in: PAUSED
+05-02 18:33:28.038 14166 14166 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@ed68fc8
+05-02 18:33:28.039  1038 23341 E surfaceflinger: [frame_perf] perfboost open boost file failed
+05-02 18:33:28.047  6444  6444 D KeyButtonRipple:  draw SupportHardware=true Type=ROUNDED_RECT
+05-02 18:33:28.048  6444  6444 I chatty  : uid=10014(com.android.systemui) identical 1 line
+05-02 18:33:28.048  6444  6444 D KeyButtonRipple:  draw SupportHardware=true Type=ROUNDED_RECT
+05-02 18:33:28.051 32133 32133 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3182
+05-02 18:33:28.052 32133 32133 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2077 checkRepeatedly = false, unlocked = true
+05-02 18:33:28.052 32133 32133 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1885 onStartInput(EditorInfo{inputType=0x0(NULL) imeOptions=0x0 privateImeOptions=null actionName=UNSPECIFIED actionLabel=null actionId=0 initialSelStart=-1 initialSelEnd=-1 initialCapsMode=0x0 hintText=null label=null packageName=com.example.dogglers fieldId=-1 fieldName=null extras=null}, false)
+05-02 18:33:28.052 32133 32133 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2077 checkRepeatedly = true, unlocked = true
+05-02 18:33:28.054  1212  1641 D OpPowerConsumpStatsInjector: notifyPkgEvent
+05-02 18:33:28.054  1212  1641 D OpPowerConsumpStatsInjector: notifyPkgEvent
+05-02 18:33:28.058 14166 14166 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@c58d95e in: PRE_ON_CREATE
+05-02 18:33:28.059 14166 14166 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@c58d95e
+05-02 18:33:28.067 14166 14166 E xample.doggler: Invalid ID 0x00000000.
+05-02 18:33:28.070 14166 14166 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@c58d95e in: CREATED
+05-02 18:33:28.070 14166 14166 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@c58d95e
+05-02 18:33:28.072 14166 14166 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@c58d95e in: STARTED
+05-02 18:33:28.073 14166 14166 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@c58d95e
+05-02 18:33:28.075 14166 14166 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@c58d95e in: RESUMED
+05-02 18:33:28.075 14166 14166 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@c58d95e
+05-02 18:33:28.080 14166 14166 V ViewRootImpl: The specified message queue synchronization  barrier token has not been posted or has already been removed
+05-02 18:33:28.084 14166 14166 D ViewRootImpl[InstrumentationActivityInvoker$EmptyActivity]: windowFocusChanged hasFocus=false inTouchMode=true
+05-02 18:33:28.103  1038  1086 E surfaceflinger: [frame_perf] AutoTurboBoostQuery fd<0 failed, errno=Inappropriate ioctl for device
+05-02 18:33:28.103  1038  1086 E surfaceflinger: [frame_perf] AutoBoostConfigQuery fd<0 failed, errno=No such file or directory
+05-02 18:33:28.106  1212  1715 I ===> HoustonPackage: addLaunchTimeInfo: for com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity isCold:false launchTime:94
+05-02 18:33:28.106  1212  1664 I ActivityTaskManager: Displayed com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity: +94ms
+05-02 18:33:28.118 14166 14166 D DecorView: onWindowFocusChangedFromViewRoot hasFocus: true, DecorView@8552d6a[InstrumentationActivityInvoker$EmptyActivity]
+05-02 18:33:28.119 14166 14166 D ViewRootImpl[InstrumentationActivityInvoker$EmptyActivity]: windowFocusChanged hasFocus=true inTouchMode=true
+05-02 18:33:28.126  1212  2998 D ActivityTrigger: ActivityTrigger activityPauseTrigger
+05-02 18:33:28.132 32133 32133 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3182
+05-02 18:33:28.133 32133 32133 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2077 checkRepeatedly = false, unlocked = true
+05-02 18:33:28.133 14166 14166 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@ed68fc8 in: STOPPED
+05-02 18:33:28.133 32133 32133 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1885 onStartInput(EditorInfo{inputType=0x0(NULL) imeOptions=0x0 privateImeOptions=null actionName=UNSPECIFIED actionLabel=null actionId=0 initialSelStart=-1 initialSelEnd=-1 initialCapsMode=0x0 hintText=null label=null packageName=com.example.dogglers fieldId=-1 fieldName=null extras=null}, false)
+05-02 18:33:28.134 32133 32133 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2077 checkRepeatedly = true, unlocked = true
+05-02 18:33:28.134 14166 14166 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@ed68fc8
+05-02 18:33:28.137 14166 14166 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@ed68fc8 in: DESTROYED
+05-02 18:33:28.137 14166 14166 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@ed68fc8
+05-02 18:33:28.144 14166 14166 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@c58d95e in: PAUSED
+05-02 18:33:28.145 14166 14166 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@c58d95e
+05-02 18:33:28.145  1212  1641 D OpPowerConsumpStatsInjector: notifyPkgEvent
+05-02 18:33:28.146  6444  6444 D EdgeBackGestureHandler: updateTopPackage isHomeApp true
+05-02 18:33:28.148   794   802 E statsd  : Predicate 5980654721335871649 dropping data for dimension key (10)0x2010101->10876[I] (10)0x30000->*launch*[S]
+05-02 18:33:28.159  1212  1641 D OpPowerConsumpStatsInjector: notifyPkgEvent
+05-02 18:33:28.166 14166 14166 D ViewRootImpl[InstrumentationActivityInvoker$EmptyActivity]: windowFocusChanged hasFocus=false inTouchMode=true
+05-02 18:33:28.169 14166 14194 I TestRunner: finished: vertical_list_button_is_displayed(com.example.dogglers.ButtonTests)
