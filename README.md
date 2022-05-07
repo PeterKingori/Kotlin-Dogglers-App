@@ -2,7 +2,7 @@
 This is the project app for the 
 [final pathway](https://developer.android.com/courses/pathways/android-basics-kotlin-unit-2-pathway-3) of Android Basics 
 [Unit 2](https://developer.android.com/courses/android-basics-kotlin/unit-2). It provides practice on improving a 
-user interface using Material Design guidelines and Android's RecyclerView widget.
+user interface using Material Design guidelines and Android Jetpack libraries such as Cardview, ConstraintLayout, ViewBinding and RecyclerView.
 
 ## Getting Started
 1. Download the starter code
